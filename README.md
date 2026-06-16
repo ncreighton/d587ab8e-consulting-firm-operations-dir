@@ -1,2 +1,59 @@
-# d587ab8e-consulting-firm-operations-dir
-What if add powerful functionality to WordPress without writing code took minutes instead of hours?  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Consulting Firm Operations Directory And Listings — fully configured and ready to use - Clean admin settin
+=== Consulting Firm Operations Directory and Listings WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Searchable directories with maps, filters, reviews, and claim-your-listing features. Build a Consulting Firm Operations marketplace on WordPress.
+
+== Description ==
+
+Searchable directories with maps, filters, reviews, and claim-your-listing features. Build a Consulting Firm Operations marketplace on WordPress.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Consulting Firm Operations Directory and Listings WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq8wP4eP3o8aNOcDWcZo2G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq8wP4eP3o8aNOcDWcZo2G)
+
